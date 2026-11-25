@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--aem-ue-1125--natsukifujiwara.aem.page/
+- Live: https://main--aem-ue-1125--natsukifujiwara.aem.live/
 
 ## Documentation
 
